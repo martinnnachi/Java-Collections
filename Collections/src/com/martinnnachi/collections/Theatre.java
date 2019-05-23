@@ -3,9 +3,6 @@ package com.martinnnachi.collections;
 import java.util.*;
 
 public class Theatre {
-    private final String theatreName;
-    private List<Seat> seats = new LinkedList<>();
-
     static final Comparator<Seat> PRICE_ORDER;
 
     static {
@@ -22,6 +19,9 @@ public class Theatre {
             }
         };
     }
+
+    private final String theatreName;
+    private List<Seat> seats = new LinkedList<>();
 
     public Theatre(String theatreName, int numRows, int seatsPerRow) {
         this.theatreName = theatreName;
