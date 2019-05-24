@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="522ca506-51f7-45b2-8a9f-4db43b8a6856" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/.idea/SetAndHashSet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/martinnnachi/collections/HeavenlyBody.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Adventure/com/martinnnachi/collections/Location.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adventure/com/martinnnachi/collections/Location.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Adventure/com/martinnnachi/collections/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adventure/com/martinnnachi/collections/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SetAndHashSet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SetAndHashSet/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,16 +33,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/martinnnachi/collections/Location.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
+            <state relative-caret-position="360">
               <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#548#549#0" expanded="true" />
-                <element signature="e#581#582#0" expanded="true" />
-                <element signature="e#619#620#0" expanded="true" />
-                <element signature="e#653#654#0" expanded="true" />
-                <element signature="e#699#700#0" expanded="true" />
-                <element signature="e#742#743#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,7 +84,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -131,6 +122,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -180,6 +172,7 @@
       <updated>1558634043708</updated>
       <workItem from="1558634050858" duration="1617000" />
       <workItem from="1558698345855" duration="7210000" />
+      <workItem from="1558714604467" duration="671000" />
     </task>
     <task id="LOCAL-00001" summary="adventure commit">
       <created>1558705131644</created>
@@ -206,13 +199,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8827000" />
+    <option name="totallyTimeSpent" value="9498000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15658094" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15885022" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -257,26 +250,20 @@
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/martinnnachi/collections/Location.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#619#620#0" expanded="true" />
-            <element signature="e#653#654#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-            <element signature="e#742#743#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/martinnnachi/collections/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="15" column="101" selection-start-line="15" selection-start-column="101" selection-end-line="15" selection-end-column="101" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/martinnnachi/collections/Location.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
