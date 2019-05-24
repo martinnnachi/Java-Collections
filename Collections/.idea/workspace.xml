@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e177f12-9255-492e-8d01-c0815fd2494a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/martinnnachi/collections/Maps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Collections/com/martinnnachi/collections/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collections/com/martinnnachi/collections/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Collections/com/martinnnachi/collections/Theatre$Seat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collections/com/martinnnachi/collections/Theatre$Seat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Collections/com/martinnnachi/collections/Theatre.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collections/com/martinnnachi/collections/Theatre.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/martinnnachi/collections/Theatre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/martinnnachi/collections/Theatre.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -206,7 +200,7 @@
       <workItem from="1556716091219" duration="5259000" />
       <workItem from="1558523048175" duration="177000" />
       <workItem from="1558542513534" duration="2077000" />
-      <workItem from="1558545966753" duration="9300000" />
+      <workItem from="1558545966753" duration="9501000" />
     </task>
     <task id="LOCAL-00001" summary="fourth commit via intellij idea">
       <created>1558620342754</created>
@@ -215,15 +209,21 @@
       <option name="project" value="LOCAL" />
       <updated>1558620342754</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fifth commit via intellij idea">
+      <created>1558633900617</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558633900617</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16813000" />
+    <option name="totallyTimeSpent" value="17014000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15658094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -262,7 +262,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fourth commit via intellij idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="fourth commit via intellij idea" />
+    <MESSAGE value="fifth commit via intellij idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="fifth commit via intellij idea" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/martinnnachi/collections/Maps.java">
@@ -339,6 +340,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -350,6 +352,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
+          <last-edited>Collections</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
